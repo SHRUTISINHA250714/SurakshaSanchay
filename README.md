@@ -147,7 +147,7 @@ git push origin feature/your-feature-name
 
 6. Open a pull request to the main repository.
 
-Authentication
+##Authentication
 The application supports multiple user roles, each with specific access to services:
 
 User
@@ -156,7 +156,7 @@ Incharge
 Login Credentials
 Ensure you have your GovID and password ready for authentication.
 
-For Testing/Development Purposes:
+###For Testing/Development Purposes:
 User
 
 GovID: bhoomiagrawal1212@gmail.com
