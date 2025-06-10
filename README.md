@@ -147,5 +147,28 @@ git push origin feature/your-feature-name
 
 6. Open a pull request to the main repository.
 
+Authentication
+The application supports multiple user roles, each with specific access to services:
+
+User
+Admin
+Incharge
+Login Credentials
+Ensure you have your GovID and password ready for authentication.
+
+For Testing/Development Purposes:
+User
+
+GovID: bhoomiagrawal1212@gmail.com
+Password: 123456
+Admin
+
+GovID: prajwal.kp.1817@gmail.com
+Password: 123456
+Incharge
+
+GovID: 1ds23cs160@dsce.edu.in
+Password: 123456
+
 License
 The project is licensed under the MIT License.  
