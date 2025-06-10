@@ -77,7 +77,7 @@ SurakshaSanchay is a comprehensive hardware inventory management system designed
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BhoomiAgrawal12/SurakshaSanchay
+   https://github.com/SHRUTISINHA250714/SurakshaSanchay.git
 
 ### Navigate to the project directory:
 cd SurakshaSanchay
