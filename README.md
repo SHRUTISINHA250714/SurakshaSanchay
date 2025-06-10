@@ -1,8 +1,5 @@
 # SurakshaSanchay: Police Hardware Inventory Management System
 
-## Repository URL
-
----
 
 ## Project Overview
 SurakshaSanchay is a comprehensive hardware inventory management system designed to address the challenges faced by police departments in managing technological assets. This project aims to ensure that all technological assets, such as computers, communication devices, servers, and other equipment, are readily available, well-maintained, and up-to-date.
@@ -111,6 +108,8 @@ DELETE /api/inventory/:id - Delete an inventory item.
 GET /api/reports - View reports.
 POST /api/reports - Generate a new report.
 
+---
+
 ### Technology Stack
 
 ### Frontend
@@ -128,6 +127,8 @@ Authentication: NextAuth.js
 
 Platform: Vercel
 Storage: AWS S3 for file uploads
+
+---
 
 ### How to Contribute
 
@@ -147,7 +148,9 @@ git push origin feature/your-feature-name
 
 6. Open a pull request to the main repository.
 
-##Authentication
+---
+
+## Authentication
 The application supports multiple user roles, each with specific access to services:
 
 User
@@ -156,7 +159,7 @@ Incharge
 Login Credentials
 Ensure you have your GovID and password ready for authentication.
 
-###For Testing/Development Purposes:
+## For Testing/Development Purposes:
 User
 
 GovID: bhoomiagrawal1212@gmail.com
@@ -169,6 +172,8 @@ Incharge
 
 GovID: 1ds23cs160@dsce.edu.in
 Password: 123456
+
+---
 
 License
 The project is licensed under the MIT License.  
